@@ -1,0 +1,5 @@
+﻿  Assignment 3 Q2.cpp
+  LinearSearch.cpp
+  Generating Code...
+C:\Users\ADEEBA\source\repos\Assignment 3 Q2\Assignment 3 Q2\LinearSearch.cpp(27,16): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Assignment 3 Q2.vcxproj -> C:\Users\ADEEBA\source\repos\Assignment 3 Q2\x64\Debug\Assignment 3 Q2.exe
